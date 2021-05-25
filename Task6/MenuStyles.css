@@ -1,0 +1,11 @@
+ul.Menu{
+	width: 200px;
+	color: #8B0000;
+	background: #d4c987;
+	border: 2px solid #000;
+	border-radius: 10px;
+	box-shadow: 5px 5px;
+}
+li {
+    list-style-type: none;
+   }

@@ -1,0 +1,38 @@
+
+* {margin: 0; padding: 0;}
+form {
+width: 400px; height: 275px;
+background-color: #0690CF;
+border: 3px solid #0075B2;
+margin: 15px 0 0 15px;
+}
+p {
+color: white;
+font: 26px Arial;
+padding: 17px 0 11px 21px;
+}
+h4 {
+color: white;
+font: 16px Arial normal;
+padding: 10px 0 2px 21px;
+}
+.input1 {
+width: 325px; height: 20px;
+}
+.input2 {
+width: 150px; height: 20px;
+}
+input {
+margin: 0 0 11px 18px;
+}
+.pass {
+display: inline-block;
+}
+.button {
+width: 80px; height: 25px;
+font-size: 12px;
+background-color: #FFDF7F;
+border: none;
+margin: 20px 0 11px 21px;
+}
+</style>

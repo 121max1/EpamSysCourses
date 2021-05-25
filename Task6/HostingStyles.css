@@ -1,0 +1,32 @@
+body {
+font: 12px Arial;
+background: #4e6589;
+}
+.hosting {
+background: #fff;
+margin: auto;
+overflow: hidden;
+border-radius: 5px;
+width: 610px;
+background: #fff;
+}
+.item {
+float: left;
+width: 200px;
+border-left: 1px solid black;
+text-align: center;
+margin: 10px 0;
+}
+h3 { color: #f57000; }
+.button {
+	background: #f57293;
+	display: inline-block;
+	padding: 5px 10px;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 4px;
+}
+img{
+	width: 64px;
+	height: 64px;
+}
