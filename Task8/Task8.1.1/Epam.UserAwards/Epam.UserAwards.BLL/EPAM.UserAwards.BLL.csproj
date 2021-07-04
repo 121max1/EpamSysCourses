@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EPAM.UserAwards.BLL.Interfaces\EPAM.UserAwards.BLL.Interfaces.csproj" />
+    <ProjectReference Include="..\Epam.UserAwards.Common\Epam.UserAwards.Common.Entities.csproj" />
+    <ProjectReference Include="..\EPAM.UserAwards.DAL.Interfaces\EPAM.UserAwards.DAL.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
